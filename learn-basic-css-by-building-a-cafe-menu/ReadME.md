@@ -21,6 +21,6 @@ In this task, I've created a Cafe Menu using HTML and CSS. This hands-on project
 
 ## Preview
 
-![Cafe Menu Preview](/task-2/preview.png)
+![Cafe Menu Preview](responsive-web-design/learn-basic-css-by-building-a-cafe-menu/preview.png)
 
 Happy coding! 🚀
