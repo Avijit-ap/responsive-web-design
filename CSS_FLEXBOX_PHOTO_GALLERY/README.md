@@ -6,6 +6,10 @@ This project is a simple photo gallery built using CSS Flexbox layout. It displa
 
 ![Photo Gallery Preview](preview.png)
 
+## Live Demo
+
+You can view the live demo [here](https://avijit-ap.github.io/css-flexbox-photo-gallery/).
+
 ## Technologies Used
 
 - HTML
