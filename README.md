@@ -30,6 +30,16 @@ Task 2 focuses on building a Cafe Menu using HTML and CSS. You will practice var
 
 - **Objective**: The goal of this task was to reinforce your understanding of basic CSS properties by applying them to a real-world scenario.
 
+## Task 3: Rothko Painting
+
+Task 3 involves creating a Rothko-style painting using HTML and CSS. You will learn about positioning, styling, and other CSS techniques to create an abstract painting reminiscent of Mark Rothko's work.
+
+### Project Details
+
+- **Files**:
+  - [index.html](/Rothko_Painting/index.html): HTML file for the Rothko Painting.
+  - [styles.css](/Rothko_Painting/styles.css): CSS file containing the styling for the painting.
+
 Feel free to explore the code and use it as a reference for your own projects.
 
 ## Tasks and Projects
